@@ -47,7 +47,8 @@ Place within it:
 The File structure in the end should be as follows:
 Generator
 |_____ ALMOR3IRQgenSina.pm (Generator Library)
-|_____ almor-s31.db (Database)
+___ almor-s31.db (Database)
 |_____ Generator.exe (Executable)
 |_____ script
         |_____ ALMOR3gallSina.pl (Almor Generation Script)
+		
