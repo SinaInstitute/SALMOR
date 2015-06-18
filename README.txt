@@ -1,4 +1,4 @@
-Almor Generator Program
+#Almor Generator Program
 
 ------====== INPUT ======------
 
